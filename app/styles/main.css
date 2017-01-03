@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, SansSerif;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    /*background-color: pink;*/
+    text-align: center;
+}
+h5, .wu-logo {
+    /*background-color: blue;*/
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+
+.wu-logo {
+    height: 25px;
+    width: 102.75px;
+    /*background-color: red;*/
+    background-image: url("/app/images/wuLogo_horz.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
